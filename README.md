@@ -13,3 +13,7 @@ To get conda environments to show up for selection in Jupyter Notebook, the magi
 `conda install nb_conda_kernels`
 
 on your base Conda environment.
+
+To run `setup.py`, you do:
+
+`python setup.py install` [(Stack OverFlow)](https://stackoverflow.com/questions/31373797/how-do-you-run-a-setup-py-file-properly)
