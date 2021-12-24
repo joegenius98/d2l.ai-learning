@@ -6,7 +6,9 @@ requirements = [
     'numpy==1.18.5',
     'matplotlib==3.3.3',
     'requests==2.25.1',
-    'pandas==1.2.2'
+    'pandas==1.2.2',
+    'tensorflow==2.7.0',
+    'tensorflow-probability==0.15.0'
 ]
 
 setup(
