@@ -4,7 +4,15 @@ Repo. for learning artificial intelligence textbook found @ d2l.ai
 
 # How to Set Up Your Environment
 
-I read the installation page; it's not bad at all.
+On the terminal:
+
+Install `Anaconda` or `Miniconda` if you have not already.
+
+1. `conda create --name d2l python=3.8 -y`
+
+2. Navigate to [`mxnet`](./mxnet), [`pytorch`](./pytorch), or [`tensorflow`](./tensorflow) folder, depending on your preference.
+
+3. `python setup.py install`
 
 # Useful Things I Learned Along the Way
 
